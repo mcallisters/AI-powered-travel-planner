@@ -1,17 +1,12 @@
-# Provides functions to interact with the operating system, such as file/directory operations and environment variable access
-os
-# Enables HTTP requests to fetch data from APIs or websites, simplifying web interactions
-requests
-# Imports type hinting tools to define structured data types (e.g., dictionaries, lists, optional values) for better code clarity and IDE support
-typing 
-
-List, Optional
-# Provides classes for manipulating dates and times, useful for timestamps and scheduling
-datetime  
-# Offers an object-oriented approach to handle filesystem paths, making path operations platform-independent
-pathlib 
-# Loads environment variables from a .env file into the application, useful for managing configuration settings securely
- dotenv
-
+gradio==4.44.0
+openai==1.51.0
+tavily-python==0.5.0
+google-search-results==2.4.2
+python-dotenv==1.0.1
+pandas==2.2.2
+pathlib
+datetime
+json5
+re
 
 
