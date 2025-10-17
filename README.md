@@ -68,7 +68,7 @@ To run this application, you need the following API keys:
 
 ## 📁 Project Structure
 
-├── app.py # Main Gradio application
+├── app.py # Main application including streamlit
 ├── requirements.txt # Python dependencies
 ├── README.md # This file
 └── .env files (local) # Environment variables (not included in deployment)
