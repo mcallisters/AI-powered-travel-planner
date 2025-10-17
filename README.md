@@ -4,7 +4,6 @@ An intelligent travel planning application that uses AI to help you plan your pe
 
 ## ✨ Features
 
-- **🎤 Voice Input**: Record your travel plans using the microphone or upload an audio file  
 - **✍️ Text Input**: Type your travel requirements in natural language  
 - **🤖 AI Processing**: Uses OpenAI GPT-4 to understand and extract trip details  
 - **🔍 Real-time Search**: Searches for flights, hotels, and car rentals using Tavily API  
