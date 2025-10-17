@@ -10,7 +10,7 @@ An intelligent travel planning application that uses AI to help you plan your pe
 - **🔍 Real-time Search**: Searches for flights, hotels, and car rentals using Tavily API  
 - **📋 Comprehensive Plans**: Generates detailed itineraries with budget estimates  
 - **🎯 Smart Recommendations**: Suggests points of interest and activities  
-- **🖥️ UI Built with Gradio**: A clean and interactive web interface powered by [Gradio](https://www.gradio.app)  
+- **🖥️ UI Built with Streamlit**: A clean and interactive web interface powered by https://streamlit.io/
 
 ## 🚀 How to Use
 
@@ -37,13 +37,11 @@ An intelligent travel planning application that uses AI to help you plan your pe
 
 ## 🔧 Technology Stack
 
-- **Frontend**: [Gradio](https://www.gradio.app) for the web interface  
+- **Frontend**: Streamlit - https://streamlit.io/
 - **AI Models**:  
-  - OpenAI Whisper for audio transcription  
   - OpenAI GPT-4 for natural language processing and trip planning  
 - **Search APIs**:  
   - Tavily API for real-time travel information  
-  - SerpAPI for enhanced search results (optional)  
 - **Backend**: Python with various libraries for data processing  
 
 ## 🔑 Required API Keys
@@ -58,9 +56,6 @@ To run this application, you need the following API keys:
    - Get from [OpenAI Platform](https://platform.openai.com)  
    - Used for AI processing and Whisper transcription  
 
-3. **SerpAPI Key** (`SERPAPI_API_KEY`) – *Optional*  
-   - Get from [SerpAPI](https://serpapi.com)  
-   - Provides enhanced search results  
 
 ### Setting API Keys in Hugging Face Spaces
 
@@ -69,7 +64,7 @@ To run this application, you need the following API keys:
 3. Add the API keys as secrets:  
    - `TAVILY_API_KEY`  
    - `OPENAI_API_KEY`  
-   - `SERPAPI_API_KEY`  
+ 
 
 ## 📁 Project Structure
 
@@ -79,7 +74,7 @@ To run this application, you need the following API keys:
 └── .env files (local) # Environment variables (not included in deployment)
 ├── TAVILY_API_KEY.env
 ├── OPENAI_API_KEY.env
-└── SERPAPI_API_KEY.env
+
 
 
 ## 🛠️ Local Development
