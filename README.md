@@ -13,26 +13,11 @@ An intelligent travel planning application that uses AI to help you plan your pe
 
 ## 🚀 How to Use
 
-### Option 1: Voice Input
 
-1. Click on the **"🎤 Voice Input"** tab  
-2. Use the microphone to record your travel plans or upload an audio file  
-3. Describe your destination, travel dates, preferences, and budget  
-4. Click **"🎯 Plan My Trip from Audio"**  
+### Text Input
 
-### Option 2: Text Input
-
-1. Click on the **"✍️ Text Input"** tab  
-2. Type your travel plans in the text box  
-3. Include destination, dates, preferences, and any special requirements  
-4. Click **"🎯 Plan My Trip from Text"**  
-
-## 📝 Example Inputs
-
-- "I want to visit Tokyo for a week in March with my family, budget around $4000"  
-- "Plan a romantic weekend in Paris, leaving from New York, mid-range hotels"  
-- "Business trip to London, 3 days, need hotel near financial district"  
-- "Looking for a beach vacation in Mexico, 5-7 days, all-inclusive resorts"  
+1. Type your travel information in the text boxes  
+3. Click **"🎯 Plan My Trip from Text"**  
 
 ## 🔧 Technology Stack
 
